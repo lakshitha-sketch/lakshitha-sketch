@@ -14,7 +14,7 @@
 - *Learning to work* with LLMs and Transformers.
 - Data Analysis & Visualization (Python, SQL, Power BI).
 - Natural Language Processing & Deep Learning.
-- Experimenting with projects that mix **tech + impact*.
+- Experimenting with projects that mix **tech + impact**.
 
 
 ---
